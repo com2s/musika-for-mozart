@@ -9,7 +9,15 @@ ffmpeg 오류 발생 시 아래 코드로 패키지 설치
 
 > conda install -c conda-forge ffmpeg
 
-아래 코드로 우리의 결과를 보실 수 있습니다. (app.py 주소 확인)
+---
+
+아래 링크를 통해 모델의 체크포인트를 다운로드 받으실 수 있습니다.
+
+https://drive.google.com/file/d/1BthoAxlF2kV2BrmfK0DGOJ0JY1MbupY_/view?usp=sharing
+
+압축해제 후 해당파일을 프로젝트 폴더 내로 옮겨주시기 바랍니다.
+
+이후 아래 코드로 저희들의 결과를 보실 수 있습니다. (app.py 주소 확인)
 
 > python app.py --base_channels 256 
 
