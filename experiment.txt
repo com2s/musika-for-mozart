@@ -1,6 +1,6 @@
 conda activate musika
 
-cd C:\Users\genmg2\Desktop\musika-piano
+cd C:\Users\username\Desktop\musika-for-mozart
 
 python app.py --base_channels 256
 
